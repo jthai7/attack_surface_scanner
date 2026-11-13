@@ -10,8 +10,8 @@ Developed and tested on Python 3.12.
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/<jthai7>/<attack_surface_scanner>.git
-   cd <attack_surface_scanner>
+   git clone https://github.com/jthai7/attack_surface_scanner.git
+   cd attack_surface_scanner
 ```
 
 2. (Recommended) Create and activate a virtual environment:
